@@ -1,5 +1,9 @@
 # BarNoneApp — Docs Roadmap (MVP v1)
 
+https://discord.gg/tfs7zVR5h - discord channel 
+https://www.figma.com/design/Fk0kPaGOwkaz4LaM4ctPwP/BarNoneApp?node-id=11-9&t=zTrSjP20JVuT0m3p-1 - design
+https://excalidraw.com/#room=5ca816faa9aeb469a0a4,xnejlmF2m80JtepJ8TwAMw - draft area
+
 Эта папка содержит **единый комплект документации для MVP v1**: продуктовые договорённости, требования, UI-карту, core-логику и доменную модель.
 
 > ⚠️ Важно: это **версия для MVP (v1)**.  
