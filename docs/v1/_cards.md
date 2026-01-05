@@ -1,4 +1,4 @@
-# UI MAP — Screen Cards (Final)
+# UI MAP — Screen Cards
 
 ## 0) ID FORMAT (паспорт экрана)
 
